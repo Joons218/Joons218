@@ -1,5 +1,5 @@
-## Hi👋
-Name : Taeho Kim
+## Hi My name is Taeho👋
+Name : Taeho Kim </br>
 Email : taeho.kim0218@gmail.com
 
 ## Dev Stack
