@@ -14,7 +14,7 @@
 - 정보통신기획평가원 IITP 성과공유회, 우수상 (2024.08)
 
 ## Problem Solving
-http://mazassumnida.wtf/api/v2/generate_badge?boj=ha990101
+[http://mazassumnida.wtf/api/v2/generate_badge?boj=ha990101]
 
 <!--
 **Joons218/Joons218** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
